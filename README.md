@@ -83,8 +83,8 @@ It combines a **premium UI/UX design** with an **interactive chatbot assistant**
 
 ```
 📁 IITJ-AI-ASSISTANT-BOT
-│── index.html
 │── README.md
+│── index.html
 │── screenshot.png
 ```
 
@@ -139,7 +139,3 @@ index.html
 1st Year BS in AI & Data Science @ IIT Jodhpur  
 📧 dk.khandelwaliitj@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/daksh-khandelwal-b02748391/)
-
-## 🔥 Final Note
-
-> Built with passion to make AI education more accessible, interactive, and engaging 🚀
